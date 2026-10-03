@@ -24,3 +24,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Large raw forensic dataset; keep it out of the Git repository.
+data/web_activity.csv
