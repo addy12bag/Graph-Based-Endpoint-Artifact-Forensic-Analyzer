@@ -1,0 +1,9 @@
+endpoint_id,endpoint_name,mac,unit,log_type,event_time,received_time,message
+EPD24DBC,host-7394,6E:DE:00:D5:9F:8A,unit-foxtrot,usb,22-09-2026 18:23:12,22-09-2026 19:03:03,"General -UDisk , Mass Storage abcd:1234      "
+EPD24DBC,host-7394,6E:DE:00:D5:9F:8A,unit-foxtrot,usb,22-09-2026 18:23:41,22-09-2026 19:03:03,"General -UDisk , Mass Storage abcd:1234      "
+EPD24DBC,host-7394,6E:DE:00:D5:9F:8A,unit-foxtrot,usb,22-09-2026 18:23:12,23-09-2026 09:05:16,"General -UDisk , Mass Storage abcd:1234      "
+EPD24DBC,host-7394,6E:DE:00:D5:9F:8A,unit-foxtrot,usb,22-09-2026 18:23:41,23-09-2026 09:05:16,"General -UDisk , Mass Storage abcd:1234      "
+EP7FZ2XY,host-9764,F6:6F:85:06:00:26,unit-quebec,usb,07-09-2026 22:34:11,07-09-2026 09:03:19,"usb-usage: Logitech-USB Optical Mouse, Human Interface Device 046d:c077    "
+EP7FZ2XY,host-9764,F6:6F:85:06:00:26,unit-quebec,usb,07-09-2026 22:34:12,07-09-2026 09:03:19,"usb-usage: Logitech-USB Optical Mouse, Human Interface Device 046d:c077    "
+EP7FZ2XY,host-9764,F6:6F:85:06:00:26,unit-quebec,usb,07-09-2026 22:34:13,07-09-2026 09:03:19,"usb-usage: Logitech-USB Optical Mouse, Human Interface Device 046d:c077    "
+EP7FZ2XY,host-9764,F6:6F:85:06:00:26,unit-quebec,usb,07-09-2026 22:34:14,07-09-2026 09:03:19,"usb-usage: Logitech-USB Optical Mouse, Human Interface Device 046d:c077    "

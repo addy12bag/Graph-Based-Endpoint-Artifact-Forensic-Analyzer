@@ -1,0 +1,15 @@
+# Streamlit dashboard
+streamlit
+
+# Data processing
+pandas
+
+# Interactive timeline visualization
+plotly
+
+# Neo4j database connectivity
+neo4j
+
+# Jupyter notebooks
+jupyter
+ipykernel
