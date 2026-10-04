@@ -6,7 +6,16 @@ The project converts endpoint telemetry into a graph-based forensic model and pr
 
 ---
 
-## 1. Project Overview
+### 1. Key Capabilities
+
+- Graph-based endpoint–artifact investigation using Neo4j
+- Malicious artifact and detection analysis
+- Endpoint risk prioritization
+- Cross-endpoint SHA256/IOC correlation
+- Detection timeline reconstruction
+- Interactive Streamlit forensic dashboard
+
+## 2. Project Overview
 
 Traditional tabular analysis makes it difficult to investigate relationships between:
 
